@@ -1,2 +1,2 @@
 # webandandroiddevelopment.github.io
-Android applications and webPage for webSite For Everyone!
+Android applications and webPages
